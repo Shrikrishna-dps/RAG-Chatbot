@@ -1,6 +1,4 @@
-# RAG Chatbot
-
-SCM Intelligence Assistant
+# SCM Intelligence Assistant
 
 # Public Chatbot URL
 
